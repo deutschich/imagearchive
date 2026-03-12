@@ -1,6 +1,6 @@
-# Deutschich ImageArchive License (IAL) v1.0
+# ImageArchive License (IAL) v1.1
 
-**Copyright © 2026 deutschich**
+**Copyright © 2026 Deutschich**
 
 **Permission for Users:**
 You are allowed to use, copy, and share the images in this repository **for any purpose**, as long as you:
@@ -12,7 +12,7 @@ You are allowed to use, copy, and share the images in this repository **for any 
 The creator (Deutschich) retains **all rights** and can use, modify, redistribute, or relicense any image in this repository **without restriction**.
 
 **License Updates:**
-This license may be updated at any time. **Updates apply only to images added after the update.** Images added under previous versions remain under their original license terms.
+The license terms may be updated at any time. **Changes affect only the use of images by third parties after the update**. The license in effect when a user uses an image determines the permissions for that usage, regardless of when the image was originally added.
 
 **Disclaimer:**
 All images are provided "as-is" without any warranty. The creator is not liable for any damages resulting from the use of these images.
